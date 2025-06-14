@@ -56,6 +56,8 @@
 
 ## 📁 폴더 구조
 
+
+```bash
 src/
 ├── components/
 │   ├── common/            # SearchInput, ThemeToggle 등 공통 기능
